@@ -1,2 +1,2 @@
 # Curso profesional de Android con Kotlin
-![img](./img/CPAndroidKotlinpng)
+![img](./img/CPAndroidKotlin.png)

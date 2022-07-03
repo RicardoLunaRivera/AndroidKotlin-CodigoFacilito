@@ -1,2 +1,1 @@
-# AndroidKotlin-CodigoFacilito
-Curso profesional de Android con Kotlin
+# Curso profesional de Android con Kotlin
